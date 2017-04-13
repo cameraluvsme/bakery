@@ -50,7 +50,7 @@
 }
 #prodlist ul .prod_name_eng {
 	font-size: 75%;
-	color: #d95209;
+	color: #ff33ff;
 	padding: 3px 0px;
 }
 #prodlist ul .label {
@@ -68,7 +68,7 @@
 #item h2 {
 	font-size: 113%;
 	font-weight: bold;
-	color: #5b2204;
+	color: #00ffff;
 	margin: 20px 0px 5px;
 }
 #item p {
